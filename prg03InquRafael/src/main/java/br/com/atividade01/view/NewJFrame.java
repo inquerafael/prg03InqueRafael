@@ -93,6 +93,7 @@ public class NewJFrame extends javax.swing.JFrame {
         // TODO add your handling code here:
     }//GEN-LAST:event_txtAnoNascimentoActionPerformed
 
+    //funcao q retorna a idade com base no ano fornecido
     private void btnAcaoActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnAcaoActionPerformed
         // TODO add your handling code here:
         System.out.println("Botão pressionado");
