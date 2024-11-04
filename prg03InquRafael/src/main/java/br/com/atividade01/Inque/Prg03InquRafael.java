@@ -11,6 +11,6 @@ package br.com.atividade01.Inque;
 public class Prg03InquRafael {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("Hello World!bosta");
     }
 }
