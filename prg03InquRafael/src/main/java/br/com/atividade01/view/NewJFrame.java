@@ -96,7 +96,7 @@ public class NewJFrame extends javax.swing.JFrame {
     //funcao q retorna a idade com base no ano fornecido
     private void btnAcaoActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnAcaoActionPerformed
         // TODO add your handling code here:
-        System.out.println("Botão pressionado");
+        //System.out.println("Botão pressionado");
         try{
             int anoFornecido = Integer.parseInt(txtAnoNascimento.getText());
             LocalDate dataLocal = LocalDate.now();//pega a data do sistema
